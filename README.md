@@ -4,10 +4,10 @@
 ### Diagrama en modulos con gnuradio
 ![image](BladeRF_radar_fmcw/balderf_radar_fmcw_schema.JPG)
 
-### señal (tone) trasnmitida 
+### FFT(spectrograma) señal (chirp) trasnmitida y recibida
 ![image](BladeRF_radar_fmcw/radar_fmcw_balde_rf.JPG)
 
-### Spectrograma
+### FFT(spectrograma) señal depues del mixer, deteccion de objetos 
 ![image](BladeRF_radar_fmcw/radar_fmcw_balde_rf2.JPG)
 
 
